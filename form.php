@@ -47,5 +47,3 @@
 </html>
 
 <?php
-
-include 'thanks.php';
